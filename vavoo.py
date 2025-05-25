@@ -3,9 +3,9 @@ import json
 import re
 import os
 
-USREPG = ""
-BRANCHEPG = ""
-MFPLINK = ""     # non mettere lo / finale al link
+USREPG = "firexs909"
+BRANCHEPG = "Yo"
+MFPLINK = "https://mfpmod.mac4.duckdns.org"     # non mettere lo / finale al link
 MFPPSW = ""
 
 
