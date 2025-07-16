@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="World Championships Women - Italy W vs Singapore W" tvg-name="12:00 World Championships Women : Italy W vs Singapore W - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
-
 #EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="20:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI 2 IT
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
 
