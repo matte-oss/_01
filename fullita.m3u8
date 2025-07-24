@@ -5,3 +5,9 @@ https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="UEFA W. EURO - Germany vs Spain" tvg-name="20:00 UEFA W. EURO : Germany vs Spain - 23/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI Sport 1 IT
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
+#EXTINF:-1 tvg-id="Club Friendly - Ajax vs Celtic" tvg-name="19:30 Club Friendly : Ajax vs Celtic - 24/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
+
+#EXTINF:-1 tvg-id="World Championship - Final" tvg-name="12:30 World Championship: Final - 24/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", RAI 2 IT
+https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
+
