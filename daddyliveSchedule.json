@@ -2607,7 +2607,7 @@
         ],
         "Tennis ATP - WASHINGTON</span>": [
             {
-                "time": "09:59",
+                "time": "10:11",
                 "event": "ATP - WASHINGTON : Shelton B. vs Tiafoe F.",
                 "channels": [
                     {
@@ -2617,7 +2617,7 @@
                 ]
             },
             {
-                "time": "09:59",
+                "time": "10:11",
                 "event": "ATP - WASHINGTON : Davidovich Fokina A. vs Fritz T.",
                 "channels": [
                     {
@@ -2661,7 +2661,7 @@
         ],
         "Tennis WTA - WASHINGTON</span>": [
             {
-                "time": "09:59",
+                "time": "10:11",
                 "event": "WTA - WASHINGTON : Kalinskaya A. vs Tauson C.",
                 "channels": [
                     {
@@ -2675,7 +2675,7 @@
                 ]
             },
             {
-                "time": "09:59",
+                "time": "10:11",
                 "event": "WTA - WASHINGTON : Raducanu E./Rybakina E. vs Townsend T./Zhang S.",
                 "channels": [
                     {
@@ -2977,6 +2977,10 @@
                         "channel_id": "591"
                     },
                     {
+                        "channel_name": "M4 Sports Hungary",
+                        "channel_id": "265"
+                    },
+                    {
                         "channel_name": "BandSports Brasil",
                         "channel_id": "275"
                     },
@@ -3089,6 +3093,10 @@
                     {
                         "channel_name": "Sky Sport 4 NZ",
                         "channel_id": "591"
+                    },
+                    {
+                        "channel_name": "M4 Sports Hungary",
+                        "channel_id": "265"
                     },
                     {
                         "channel_name": "Sky Sports F1 Italy",
@@ -3245,6 +3253,10 @@
                         "channel_id": "577"
                     },
                     {
+                        "channel_name": "M4 Sports Hungary",
+                        "channel_id": "265"
+                    },
+                    {
                         "channel_name": "BandSports Brasil",
                         "channel_id": "275"
                     },
@@ -3339,6 +3351,10 @@
                     {
                         "channel_name": "Sport Klub 1 Croatia",
                         "channel_id": "101"
+                    },
+                    {
+                        "channel_name": "M4 Sports Hungary",
+                        "channel_id": "265"
                     },
                     {
                         "channel_name": "TV3+ Denmark",
