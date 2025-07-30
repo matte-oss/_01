@@ -3,10 +3,10 @@ import json
 import re
 import os
 
-USREPG = "firexs909"
-BRANCHEPG = "Yo"
-MFPLINK = "https://mfpmod.mac4.duckdns.org"     # non mettere lo / finale al link
-MFPPSW = ""
+USREPG = "matte-oss"
+BRANCHEPG = "_01"
+MFPLINK = "https://masseolol-mediaflowp.hf.space/"     # non mettere lo / finale al link
+MFPPSW = "iptvungeoblocked"
 
 
 PROXY = f"{MFPLINK}/proxy/hls/manifest.m3u8?api_password={MFPPSW}&d="
