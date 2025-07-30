@@ -12,7 +12,7 @@ import time
 import re
 from urllib.parse import quote_plus  # Add this import
 
-PRXLINK = "https://nextcloud.mac4.duckdns.org" # non mettere lo / finale
+PRXLINK = "https://masseolol-iptvungeoblocked.hf.space" # non mettere lo / finale
 
 # Constants
 REFERER = "forcedtoplay.xyz"
